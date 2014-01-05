@@ -1,0 +1,18 @@
+{
+	"corpus_path" : "",
+	"termino_path" : "",
+	
+	"save_file" : "res.txt",
+
+	"size_min" : 4,
+	"score_min" : 75,
+	"score_min_termino" : 10,
+	"freq_termino": 0.35,
+	"freq_collocation": 6.0,
+	
+	"bootstrap_iteration": 3,
+	"bootstrap_freq_filter": 4,
+	"boostrap_nb": 200,
+	
+	"macro_average": false
+}
