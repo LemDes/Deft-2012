@@ -15,7 +15,6 @@ from Config import Config
 class Corpus (object):
 	"""
 	A corpus of documents.
-	Représente un corpus de documentss.
 	"""
 	
 	def __init__ (self, documents, termino):
